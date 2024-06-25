@@ -11,7 +11,7 @@ This repository hosts my personal portfolio website, showcasing my skills, proje
 
 **Link to Portfolio:**
 
-[Visit My Portfolio] (http://127.0.0.1:5500/index.html](https://yasiraquil.github.io/Personal-Portfolio/)
+[Visit My Portfolio] (https://yasiraquil.github.io/Personal-Portfolio/)
 
 **Features:**
 
